@@ -27,4 +27,7 @@ This Python project provides a GUI-based solution for managing WhatsApp messages
   Install the following libraries:
   ```bash
   pip install twilio
-[Demo Video](https://github.com/Webwizardry-tech/CustomerSupport/issues/1#issue-2718671473)
+
+
+https://github.com/user-attachments/assets/73e7c6de-cca3-4f2c-8d61-286618289f03
+
