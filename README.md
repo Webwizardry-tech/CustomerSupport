@@ -1,6 +1,6 @@
 # AI based Customer Support System Using Whatsapp and Twilio
 
-This Python project provides a GUI-based solution for managing WhatsApp messages using Twilio's WhatsApp API. It includes a graphical interface for sending and receiving messages and an HTTP server to handle Twilio webhooks for incoming messages.
+This Python project provides a GUI-based solution for managing WhatsApp messages using Twilio's WhatsApp API. It includes a graphical interface for sending and receiving messages and an HTTP server to handle Twilio webhooks for incoming messages. Using Langchain the query is passed to the OpenAI GPT4 models and then the response is sent back to the user.
 
 ---
 
